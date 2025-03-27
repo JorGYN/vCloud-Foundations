@@ -26,7 +26,7 @@ O projeto consistiu na implementação da plataforma vCloud Foundations na infra
 - VMware vSAN
 - VMware NSX
 - VMware vRealize Suite
-- Dell EMC hardware (servidores, armazenamento)
+- Dell EMC hardware (servidores, armazenamento e rede)
 
 ## Resultados Obtidos
 
